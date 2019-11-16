@@ -34,6 +34,12 @@ p {
   font-weight: 300;
 }
 
+header {
+  position: fixed;
+  z-index: 1;
+  background-color: #FFF;
+}
+
 nav a:link, a:visited, a:hover {
   text-decoration: none;
   color: #000;
